@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 6138,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-log-change-request-azure-automation-webhook-runbook/master/Hornbill_RequestLogChangeRequest_Webhook.ps1",
+    "DownloadCount": 731,
+    "Id": "Hornbill-Log-Change-de8a580a",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 524,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Azure Powershell Runbook to log a new Change Request within Service Manager on a Hornbill Instance. For use with Automation Webhooks.",
+    "Title": "Hornbill Log Change Request - Azure Automation Webhook Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-log-change-request-azure-automation-webhook-runbook",
+    "UserTags": "Microsoft Azure, Powershell, Service Manager"
+}
